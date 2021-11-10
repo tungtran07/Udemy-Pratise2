@@ -1,0 +1,15 @@
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\DLL.deps.json
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\DLL.runtimeconfig.json
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\DLL.runtimeconfig.dev.json
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\DLL.dll
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\ref\DLL.dll
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\bin\Debug\net5.0\DLL.pdb
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.csproj.AssemblyReference.cache
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.AssemblyInfoInputs.cache
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.AssemblyInfo.cs
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.csproj.CoreCompileInputs.cache
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.dll
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\ref\DLL.dll
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.pdb
+C:\Users\MSI\RiderProjects\UdemyPractise2\DLL\obj\Debug\net5.0\DLL.genruntimeconfig.cache
