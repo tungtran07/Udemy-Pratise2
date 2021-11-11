@@ -1,10 +1,14 @@
-﻿using API.Models;
+﻿using DLL.Model;
 using Microsoft.EntityFrameworkCore;
 
 namespace DLL.DBContext
 {
     public class ApplicationDBContext : DbContext
     {
+        public ApplicationDBContext()
+        {
+            
+        }
         public ApplicationDBContext(DbContextOptions options) : base(options)
         {
             

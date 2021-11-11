@@ -1,4 +1,5 @@
 ﻿using DLL.DBContext;
+using DLL.Repositories;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
@@ -11,6 +12,10 @@ namespace DLL
         {
             services.AddDbContext<ApplicationDBContext>(optionsAction: option =>
                 option.UseSqlServer(configuration.GetConnectionString(name:"DefaultConnection")));
+            
+            
+            //reponsitory dependency
+            services.AddTransient<IDepartmentReponsitory, DepartmentReponsitory>();
         }
     }
 }

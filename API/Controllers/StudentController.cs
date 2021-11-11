@@ -1,14 +1,11 @@
 ﻿using System.Collections.Generic;
 using System.Linq;
-using API.Models;
+using DLL.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace API.Controllers
 {
-    [ApiVersion("1.0")]
-    [ApiController]
-    [Route("api/v{version:apiVersion}/[controller]")]
-    public class StudentController : ControllerBase
+    public class StudentController : MainApiController
     {
         [HttpGet]
         public IActionResult GetAll([FromQuery] string rollNulber, [FromQuery] string nickName)
